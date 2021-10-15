@@ -21,7 +21,7 @@ Simply run "node index.js" in your terminal, and answer all the questions. Your 
 
 You can watch and follow the video tutorial below.
 
-[<img src="usage-walkthrough-screenshot.png">](https://watch.screencastify.com/v/EmhE9Ea1vf4MkhP9Ra72)
+[<img src="usage-walkthrough-screenshot-play.png">](https://watch.screencastify.com/v/EmhE9Ea1vf4MkhP9Ra72)
 
 ## Contributing
 Not applicable for this application.
