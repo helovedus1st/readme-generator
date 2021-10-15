@@ -19,6 +19,10 @@ This CLI application allows any user to quickly and dynamically create a richly 
 ## Usage
 Simply run "node index.js" in your terminal, and answer all the questions. Your new README file will be created in the "output" folder.
 
+You can watch and follow the video tutorial below.
+
+[<img src="usage-walkthrough-screenshot.png">](https://watch.screencastify.com/v/EmhE9Ea1vf4MkhP9Ra72)
+
 ## Contributing
 Not applicable for this application.
 
