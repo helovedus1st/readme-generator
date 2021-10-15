@@ -80,8 +80,9 @@ ${renderLicenseSection(answers.license)}
 ${renderLicenseLink(answers.license)}
 
 ## Questions?
-If you would like to submit any issues or security concerns about this application, then please visit (https://github.com/${answers.gituser}/${answers.repo}).
-You can also contact me directly via email at via Github at [jc-renner@lu-tec.com](mailto:${answers.email}?subject=${answers.repo})
+To submit any issues or security concerns about this application, please visit https://github.com/${answers.gituser}/${answers.repo}.
+
+Contact me directly via email at [jc-renner@lu-tec.com](mailto:${answers.email}?subject=${answers.repo})
 `;
 }
 
