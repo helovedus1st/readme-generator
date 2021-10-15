@@ -1,8 +1,8 @@
-# Dynamic README Generator
-![ISC license](https://img.shields.io/badge/license-ISC-blue.svg)
+# My Project Title
+![MIT license](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## Description
-a dynamic README generator
+My project can be descibed with many different words.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,7 +16,7 @@ a dynamic README generator
 Not applicable for this application.
 
 ## Usage
-
+Please use this project the way it was designed.
 
 ## Contributing
 Not applicable for this application.
@@ -25,12 +25,12 @@ Not applicable for this application.
 Not applicable for this application.
 
 ## License
-This application has been created under the ISC open source license.
+This application has been created under the MIT open source license.
       Follow the link below to learn more.
       
-[ISC license information](https://opensource.org/licenses/ISC)
+[MIT license information](https://opensource.org/licenses/MIT)
 
 ## Questions?
-To submit any issues or security concerns about this application, please visit https://github.com/helovedus1st/readme-generator.
+To submit any issues or security concerns about this application, please visit https://github.com/sampleName/my-repo-name.
 
-Contact me directly via email at [jc-renner@lu-tec.com](mailto:jc-renner@lu-tec.com?subject=readme-generator)
+Contact me directly via email at [myName@gmail.com](mailto:myName@gmail.com?subject=my-repo-name).

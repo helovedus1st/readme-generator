@@ -82,7 +82,7 @@ ${renderLicenseLink(answers.license)}
 ## Questions?
 To submit any issues or security concerns about this application, please visit https://github.com/${answers.gituser}/${answers.repo}.
 
-Contact me directly via email at [jc-renner@lu-tec.com](mailto:${answers.email}?subject=${answers.repo})
+Contact me directly via email at [${answers.email}](mailto:${answers.email}?subject=${answers.repo}).
 `;
 }
 
